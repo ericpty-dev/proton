@@ -4,6 +4,7 @@
 - Maven 3.9 
 - MySQL 8
 - .net
+-Laravel 11
 # Technologies 
 - JAKARTA
 - Spring MVC
